@@ -1,4 +1,4 @@
-class checkp1
+class Checkp1
 {
 	char arr[][]=new char[10][10];
 	boolean checkplayer1(char arr[][])
