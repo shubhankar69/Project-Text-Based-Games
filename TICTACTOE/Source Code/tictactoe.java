@@ -1,5 +1,5 @@
 import java.util.*;
-class tictactoe
+class Tictactoe
 {
 	public static void main(String args[])
 	{
